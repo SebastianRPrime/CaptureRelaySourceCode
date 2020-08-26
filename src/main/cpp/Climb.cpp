@@ -1,3 +1,5 @@
+//Added and tested 8/26/2020
+
 #include "Climb.h"
 
 Climb::Climb() {
